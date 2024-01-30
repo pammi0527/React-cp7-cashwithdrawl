@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.but {
+  height: 30px;
+  width: 100px;
+  margin-bottom: 20px;
+}
+.buttons{
+  display: flex;
+  flex-wrap: wrap;
+}

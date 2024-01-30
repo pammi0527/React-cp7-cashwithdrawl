@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.bg {
+  background-color: #150b3e;
+  height: 100vh;
+  color: #ffffff;
+}
+
+.para{
+  font-size: 50px;
+  margin-bottom: 20px;
+}
